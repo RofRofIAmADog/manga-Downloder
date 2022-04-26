@@ -1,0 +1,17 @@
+{
+  "name": "mangadownloader",
+  "version": "1.0.0",
+  "description": "download-manga",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-image-downloader": "^1.0.7",
+    "prompt-sync": "^4.2.0",
+    "request": "^2.88.2"
+  }
+}
